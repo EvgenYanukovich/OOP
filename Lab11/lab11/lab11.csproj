@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="lab08">
+      <HintPath>..\..\lab08\lab08\bin\Debug\net7.0\lab08.dll</HintPath>
+    </Reference>
+    <Reference Include="lab09">
+      <HintPath>..\..\lab09\lab09\bin\Debug\net7.0\lab09.dll</HintPath>
+    </Reference>
+    <Reference Include="lab10">
+      <HintPath>..\..\lab10\lab10\bin\Debug\net7.0\lab10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

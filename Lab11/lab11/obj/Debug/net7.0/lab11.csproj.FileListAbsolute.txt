@@ -1,0 +1,42 @@
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab11.exe
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab11.deps.json
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab11.runtimeconfig.json
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab11.dll
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab11.pdb
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab08.dll
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab09.dll
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab10.dll
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab08.pdb
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab09.pdb
+D:\Study\2c1s\OOP\lab11\lab11\bin\Debug\net7.0\lab10.pdb
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.csproj.AssemblyReference.cache
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.AssemblyInfoInputs.cache
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.AssemblyInfo.cs
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.csproj.CoreCompileInputs.cache
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.csproj.CopyComplete
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.dll
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\refint\lab11.dll
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.pdb
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\lab11.genruntimeconfig.cache
+D:\Study\2c1s\OOP\lab11\lab11\obj\Debug\net7.0\ref\lab11.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab11.exe
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab11.deps.json
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab11.runtimeconfig.json
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab11.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab11.pdb
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab10.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab10.pdb
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.csproj.AssemblyReference.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.AssemblyInfoInputs.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.AssemblyInfo.cs
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.csproj.CoreCompileInputs.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.csproj.CopyComplete
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\refint\lab11.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.pdb
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\lab11.genruntimeconfig.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\obj\Debug\net7.0\ref\lab11.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab09.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab11\lab11\bin\Debug\net7.0\lab09.pdb

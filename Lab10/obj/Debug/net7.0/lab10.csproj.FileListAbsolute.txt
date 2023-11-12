@@ -1,0 +1,28 @@
+D:\Study\2c1s\OOP\lab10\lab10\bin\Debug\net7.0\lab10.exe
+D:\Study\2c1s\OOP\lab10\lab10\bin\Debug\net7.0\lab10.deps.json
+D:\Study\2c1s\OOP\lab10\lab10\bin\Debug\net7.0\lab10.runtimeconfig.json
+D:\Study\2c1s\OOP\lab10\lab10\bin\Debug\net7.0\lab10.dll
+D:\Study\2c1s\OOP\lab10\lab10\bin\Debug\net7.0\lab10.pdb
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.AssemblyInfoInputs.cache
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.AssemblyInfo.cs
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.csproj.CoreCompileInputs.cache
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.dll
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\refint\lab10.dll
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.pdb
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\lab10.genruntimeconfig.cache
+D:\Study\2c1s\OOP\lab10\lab10\obj\Debug\net7.0\ref\lab10.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\bin\Debug\net7.0\lab10.exe
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\bin\Debug\net7.0\lab10.deps.json
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\bin\Debug\net7.0\lab10.runtimeconfig.json
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\bin\Debug\net7.0\lab10.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\bin\Debug\net7.0\lab10.pdb
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.AssemblyInfoInputs.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.AssemblyInfo.cs
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.csproj.CoreCompileInputs.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\refint\lab10.dll
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.pdb
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\lab10.genruntimeconfig.cache
+D:\Education\2 курс\Семестр 3\Объектно-ориентированное программирование\lab10\lab10\obj\Debug\net7.0\ref\lab10.dll

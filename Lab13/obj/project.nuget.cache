@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/Fy3jNM4sR3h9VKxffk1XfZET1TEE6dC7rSfjhbvOT3bZfzhd9+b96slkRIpqLJl3yt3RY6C765A5n8lXVjAg==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\2 курс\\Семестр 3\\Объектно-ориентированное программирование\\Lab13\\lab13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evgen\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
